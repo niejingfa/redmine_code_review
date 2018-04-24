@@ -1,3 +1,6 @@
+
+= in rails 5+
+
 {<img src="https://travis-ci.org/haru/redmine_code_review.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/haru/redmine_code_review]
 {<img src="https://coveralls.io/repos/github/haru/redmine_code_review/badge.svg?branch=master" alt="Coverage Status" />}[https://coveralls.io/github/haru/redmine_code_review?branch=master]
 
